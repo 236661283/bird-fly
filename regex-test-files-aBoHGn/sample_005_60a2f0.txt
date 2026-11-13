@@ -1,0 +1,22 @@
+# 虚拟字符串扫描测试文件
+# 所有凭据形状的字符串均为随机构造的测试数据。
+本地测试环境 | id=ZjSA1mwoCY | value=23988
+本地测试环境 | id=i0dMM6UFL5 | value=85116
+检查文件编码与扫描结果 | id=sIvT6AleZF | value=36303
+任务状态待处理 | id=j9D5S4Sud5 | value=74054
+随机测试记录 | id=WU8EdrHjG4 | value=82051
+随机测试记录 | id=AgXd1AjSPW | value=46514
+已完成内容校验 | id=a3VzgSWe3s | value=69091
+示例业务数据 | id=SUztHXG4S1 | value=6659
+任务状态待处理 | id=a7bEqk0Q7O | value=79215
+test_value = "gho_VrgH2BaIhahQXPiXVT8VUwm0G"
+本行用于普通内容填充 | id=pty3xuP0tf | value=5890
+本行用于普通内容填充 | id=3Oqa4SuMJz | value=18356
+任务状态待处理 | id=kS2X2xmJGT | value=32703
+test_value = "xoxs-QmREIgVzEImpuj1ujBKD20Y-syEyG"
+随机测试记录 | id=A5xWfr25cI | value=22424
+本地测试环境 | id=a06FBHHxei | value=18012
+本行用于普通内容填充 | id=erouvvpBsN | value=73840
+任务状态待处理 | id=3tli6LXKVY | value=54004
+检查文件编码与扫描结果 | id=nQ9aZhEM1g | value=2756
+随机测试记录 | id=dsG3jQJRr4 | value=33966

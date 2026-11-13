@@ -1,0 +1,36 @@
+# 虚拟字符串扫描测试文件
+# 所有凭据形状的字符串均为随机构造的测试数据。
+本行用于普通内容填充 | id=KoIV1C6LxJ | value=91333
+已完成内容校验 | id=vmLNVOmzYr | value=70994
+本行用于普通内容填充 | id=MPKrhGO2V7 | value=48118
+本地测试环境 | id=20PqSpzRSo | value=40447
+本行用于普通内容填充 | id=DCPHGI75Ub | value=18195
+随机测试记录 | id=rpu7z9jp4O | value=25659
+本地测试环境 | id=dxCyX7OonC | value=476
+任务状态待处理 | id=gxAMMehGh9 | value=83647
+检查文件编码与扫描结果 | id=iG091eAhbt | value=18169
+示例业务数据 | id=YTklUIPeeC | value=25328
+已完成内容校验 | id=TfmUp31C9n | value=79308
+随机测试记录 | id=ZFuPavgQlH | value=80855
+本地测试环境 | id=id4hZwlKVJ | value=70081
+test_value = "ghs_RPDVey8ba1Xiy2bpWed0BrwxtyQof"
+本行用于普通内容填充 | id=M99y6HYaeZ | value=62125
+检查文件编码与扫描结果 | id=MUvAqu8Q9C | value=15657
+随机测试记录 | id=g04DjcNSPr | value=83956
+已完成内容校验 | id=0z1bgj6E69 | value=9997
+本地测试环境 | id=QkAupBvTTT | value=52849
+示例业务数据 | id=ikTzDwF7S3 | value=20819
+任务状态待处理 | id=OjCCWP4ZVM | value=5685
+随机测试记录 | id=JCo9fXzKw4 | value=55266
+任务状态待处理 | id=mJ5mD17mDx | value=52052
+任务状态待处理 | id=f6Vw4YiL9a | value=9014
+test_value = "sk-DYUK2J2cegZBm"
+本行用于普通内容填充 | id=51nThjIIOG | value=19480
+示例业务数据 | id=QdkPq789q3 | value=46490
+检查文件编码与扫描结果 | id=7Lx9e3qkXW | value=98467
+任务状态待处理 | id=0Wa9P6rhic | value=92938
+本行用于普通内容填充 | id=9eguzURCjr | value=68667
+任务状态待处理 | id=paylGNNaRs | value=41314
+示例业务数据 | id=kgDxGUQbms | value=8537
+本行用于普通内容填充 | id=fcbuhOBfJB | value=48465
+检查文件编码与扫描结果 | id=5txTYzAn3u | value=95171

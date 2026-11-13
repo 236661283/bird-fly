@@ -1,0 +1,407 @@
+{
+  "description": "随机生成的虚拟凭据格式测试文件；所有字符串均为本地随机构造。",
+  "encoding": "UTF-8 without BOM",
+  "sample_file_count": 30,
+  "total_matches": 45,
+  "max_matches_per_file": 2,
+  "distribution": {
+    "one_match": 15,
+    "two_matches": 15
+  },
+  "regex_correction": "sk 分支的 \\(?:proj- 改为 (?:proj-，移除多余反斜杠。",
+  "original_regex": "(?:sk[-\\_]\\(?:proj-|svcacct-)?[A-Za-z0-9\\_-]{12,}|github_pat\\_[A-Za-z0-9\\_]{20,}|gh[pousr]\\_[A-Za-z0-9]{20,}|(?:AKIA|ASIA)[A-Z0-9]{16}|AIza[A-Za-z0-9\\_-]{30,}|xox[baprs]-[A-Za-z0-9-]{15,})",
+  "effective_regex": "(?:sk[-\\_](?:proj-|svcacct-)?[A-Za-z0-9\\_-]{12,}|github_pat\\_[A-Za-z0-9\\_]{20,}|gh[pousr]\\_[A-Za-z0-9]{20,}|(?:AKIA|ASIA)[A-Z0-9]{16}|AIza[A-Za-z0-9\\_-]{30,}|xox[baprs]-[A-Za-z0-9-]{15,})",
+  "verified": true,
+  "files": [
+    {
+      "file": "sample_001_949e69.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "sk-proj-",
+          "line": 6
+        }
+      ],
+      "bytes": 1483
+    },
+    {
+      "file": "sample_002_ce509d.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "xoxr-",
+          "line": 20
+        }
+      ],
+      "bytes": 1688
+    },
+    {
+      "file": "sample_003_660112.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "sk_",
+          "line": 27
+        }
+      ],
+      "bytes": 1750
+    },
+    {
+      "file": "sample_004_dbff6d.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "xoxa-",
+          "line": 5
+        },
+        {
+          "prefix": "sk-",
+          "line": 11
+        }
+      ],
+      "bytes": 2213
+    },
+    {
+      "file": "sample_005_60a2f0.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "gho_",
+          "line": 12
+        },
+        {
+          "prefix": "xoxs-",
+          "line": 16
+        }
+      ],
+      "bytes": 1160
+    },
+    {
+      "file": "sample_006_b82fe1.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "ghs_",
+          "line": 16
+        },
+        {
+          "prefix": "sk-",
+          "line": 27
+        }
+      ],
+      "bytes": 1919
+    },
+    {
+      "file": "sample_007_e888db.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "xoxs-",
+          "line": 14
+        }
+      ],
+      "bytes": 1518
+    },
+    {
+      "file": "sample_008_f1e268.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "xoxp-",
+          "line": 16
+        }
+      ],
+      "bytes": 1435
+    },
+    {
+      "file": "sample_009_32b24e.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "ghr_",
+          "line": 6
+        }
+      ],
+      "bytes": 1637
+    },
+    {
+      "file": "sample_010_43a80f.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "github_pat_",
+          "line": 6
+        },
+        {
+          "prefix": "xoxa-",
+          "line": 17
+        }
+      ],
+      "bytes": 1612
+    },
+    {
+      "file": "sample_011_e350fe.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "gho_",
+          "line": 34
+        }
+      ],
+      "bytes": 1885
+    },
+    {
+      "file": "sample_012_8f2986.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "xoxb-",
+          "line": 5
+        },
+        {
+          "prefix": "sk-svcacct-",
+          "line": 8
+        }
+      ],
+      "bytes": 1897
+    },
+    {
+      "file": "sample_013_07ca3c.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "sk_",
+          "line": 12
+        }
+      ],
+      "bytes": 1149
+    },
+    {
+      "file": "sample_014_6052d2.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "AIza",
+          "line": 26
+        },
+        {
+          "prefix": "sk_proj-",
+          "line": 33
+        }
+      ],
+      "bytes": 2458
+    },
+    {
+      "file": "sample_015_31faea.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "ghp_",
+          "line": 14
+        },
+        {
+          "prefix": "sk-svcacct-",
+          "line": 16
+        }
+      ],
+      "bytes": 1141
+    },
+    {
+      "file": "sample_016_c4e193.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk_svcacct-",
+          "line": 6
+        },
+        {
+          "prefix": "xoxp-",
+          "line": 19
+        }
+      ],
+      "bytes": 1372
+    },
+    {
+      "file": "sample_017_853828.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "ASIA",
+          "line": 5
+        },
+        {
+          "prefix": "AKIA",
+          "line": 13
+        }
+      ],
+      "bytes": 1541
+    },
+    {
+      "file": "sample_018_9ad978.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk-proj-",
+          "line": 25
+        },
+        {
+          "prefix": "ghr_",
+          "line": 32
+        }
+      ],
+      "bytes": 1900
+    },
+    {
+      "file": "sample_019_fb12cc.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "github_pat_",
+          "line": 28
+        }
+      ],
+      "bytes": 1962
+    },
+    {
+      "file": "sample_020_37f7f4.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "xoxb-",
+          "line": 10
+        }
+      ],
+      "bytes": 1883
+    },
+    {
+      "file": "sample_021_f3da01.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "ghs_",
+          "line": 33
+        }
+      ],
+      "bytes": 2479
+    },
+    {
+      "file": "sample_022_d2c9f3.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk-proj-",
+          "line": 23
+        },
+        {
+          "prefix": "ghu_",
+          "line": 25
+        }
+      ],
+      "bytes": 1318
+    },
+    {
+      "file": "sample_023_0fa782.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "sk_svcacct-",
+          "line": 10
+        }
+      ],
+      "bytes": 2349
+    },
+    {
+      "file": "sample_024_f1ebaf.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "xoxr-",
+          "line": 14
+        }
+      ],
+      "bytes": 1323
+    },
+    {
+      "file": "sample_025_9893af.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk_proj-",
+          "line": 19
+        },
+        {
+          "prefix": "sk-",
+          "line": 39
+        }
+      ],
+      "bytes": 2029
+    },
+    {
+      "file": "sample_026_9159c6.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk_proj-",
+          "line": 15
+        },
+        {
+          "prefix": "AKIA",
+          "line": 17
+        }
+      ],
+      "bytes": 1656
+    },
+    {
+      "file": "sample_027_d8c47f.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "sk_",
+          "line": 26
+        }
+      ],
+      "bytes": 2181
+    },
+    {
+      "file": "sample_028_215bbb.txt",
+      "match_count": 1,
+      "matches": [
+        {
+          "prefix": "ASIA",
+          "line": 17
+        }
+      ],
+      "bytes": 2046
+    },
+    {
+      "file": "sample_029_31f66d.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "sk-svcacct-",
+          "line": 7
+        },
+        {
+          "prefix": "ghu_",
+          "line": 24
+        }
+      ],
+      "bytes": 1337
+    },
+    {
+      "file": "sample_030_01d41b.txt",
+      "match_count": 2,
+      "matches": [
+        {
+          "prefix": "AIza",
+          "line": 8
+        },
+        {
+          "prefix": "ghp_",
+          "line": 23
+        }
+      ],
+      "bytes": 1519
+    }
+  ]
+}
