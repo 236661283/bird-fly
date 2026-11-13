@@ -1,0 +1,51 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+示例业务内容 | record=2ebac7d2518c | value=847355
+处理状态正常 | record=877bd30474ce | value=325220
+处理状态正常 | record=1c5a4757140a | value=541738
+处理状态正常 | record=ac092153b6a8 | value=252026
+随机内容记录 | record=2ed80d6e508f | value=400066
+本地虚拟测试数据 | record=793e523f3208 | value=36149
+示例业务内容 | record=61f39d0c12e2 | value=592767
+本地虚拟测试数据 | record=fdc4e86bfef3 | value=731588
+示例业务内容 | record=9a85fd848240 | value=245297
+编码校验记录 | record=32970066bcfb | value=416248
+随机内容记录 | record=d49703b0622f | value=307171
+本地虚拟测试数据 | record=dd3d2e11614e | value=681212
+编码校验记录 | record=ca9395881b74 | value=470777
+示例业务内容 | record=d0bbb34e346a | value=313394
+test_value = "sk-svcacct-zNr97WmOh6I6GEuV85XGNoRzi"
+处理状态正常 | record=4803808af48b | value=691110
+文件扫描测试 | record=d0cd456b8b37 | value=735958
+本地虚拟测试数据 | record=1983b7acc9d9 | value=408914
+随机内容记录 | record=bbc15136a07c | value=173240
+处理状态正常 | record=04256590ae3b | value=943622
+示例业务内容 | record=cf9f9f72874e | value=154059
+本地虚拟测试数据 | record=2f50e6f8a14f | value=761824
+本地虚拟测试数据 | record=bc9e50490551 | value=79233
+随机内容记录 | record=8172a542a6c5 | value=453246
+处理状态正常 | record=f852233d3cdd | value=846913
+示例业务内容 | record=b4d9670cb509 | value=917955
+编码校验记录 | record=14b32d997f7b | value=240760
+编码校验记录 | record=022392d09a2c | value=469872
+示例业务内容 | record=ea4e7ca851f7 | value=320800
+随机内容记录 | record=0e32609b66cc | value=342814
+编码校验记录 | record=32a9e3d2111d | value=558186
+文件扫描测试 | record=cd1e34e659fd | value=821148
+文件扫描测试 | record=cad721d08328 | value=311272
+随机内容记录 | record=70f50e2c5742 | value=944872
+编码校验记录 | record=bd7fb7616d93 | value=290111
+编码校验记录 | record=f6862ef5d8af | value=812103
+编码校验记录 | record=da0f9f831ebc | value=545946
+处理状态正常 | record=6c562ff9a990 | value=400471
+示例业务内容 | record=566f685e989d | value=107642
+test_value = "AIzaFj-HBNbnhl9PaDxRSVxRKM6USAVY0w4uuV-"
+本地虚拟测试数据 | record=dd9136d964bc | value=521282
+文件扫描测试 | record=3b3acb21c0b3 | value=508417
+处理状态正常 | record=b9bf870d65dd | value=853110
+处理状态正常 | record=54ac29274577 | value=629383
+处理状态正常 | record=e7abcf2c69f9 | value=663535
+文件扫描测试 | record=5953426448a8 | value=120754
+编码校验记录 | record=6ae7aa07dbf8 | value=270495
+编码校验记录 | record=507e30fbe8d9 | value=967628
+本地虚拟测试数据 | record=54b65b9a5a03 | value=763911

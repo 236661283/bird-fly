@@ -1,0 +1,46 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+随机内容记录 | record=ac97c982a5a6 | value=430209
+处理状态正常 | record=533af6a5c3bc | value=565275
+示例业务内容 | record=e80259474bcd | value=761035
+文件扫描测试 | record=9ab09a7c1813 | value=757163
+test_value = "sk-2u7mCwVCBaGhzcVD6OD0TMhEeg"
+编码校验记录 | record=da57959ab7ca | value=55809
+编码校验记录 | record=8036cbc1db32 | value=343419
+本地虚拟测试数据 | record=edcc5b06afde | value=535934
+本地虚拟测试数据 | record=33e5a9640718 | value=852580
+示例业务内容 | record=304a16e55a25 | value=288654
+文件扫描测试 | record=03a97473a331 | value=63493
+随机内容记录 | record=c8b4279b37f0 | value=359572
+文件扫描测试 | record=63b86e6d1d37 | value=42903
+文件扫描测试 | record=b6626ed218e8 | value=839904
+文件扫描测试 | record=3dd350248fd9 | value=450706
+处理状态正常 | record=a4f02e87824f | value=956743
+编码校验记录 | record=90ef15fc920f | value=954225
+文件扫描测试 | record=adda2e02d35b | value=81190
+本地虚拟测试数据 | record=51a9cdd61c58 | value=694224
+示例业务内容 | record=f61d338c597f | value=90465
+文件扫描测试 | record=ec542010991c | value=80484
+随机内容记录 | record=6d29b9c42e43 | value=85004
+文件扫描测试 | record=020e47792356 | value=107613
+文件扫描测试 | record=849c41ffc7ca | value=396042
+文件扫描测试 | record=45dc3e9f3ae5 | value=518212
+文件扫描测试 | record=2b8a3afefb73 | value=647120
+test_value = "sk-proj-fMi94hr_kyrJPsc6On1n30dGeMhNkHc_EbGg21FUEWvPik0jVbtacc0Ml8ihh"
+处理状态正常 | record=0c74049ae807 | value=417318
+处理状态正常 | record=803ca126001c | value=728237
+随机内容记录 | record=934f6ecc1768 | value=47006
+本地虚拟测试数据 | record=2c1242a57efb | value=689248
+编码校验记录 | record=b2adeac76733 | value=401884
+随机内容记录 | record=54c449317d3f | value=715616
+示例业务内容 | record=3541e6d6bd40 | value=340380
+处理状态正常 | record=afaf7901761e | value=431431
+编码校验记录 | record=6c8e2349d416 | value=973246
+随机内容记录 | record=649bd9a156a7 | value=836704
+本地虚拟测试数据 | record=938976fd8b09 | value=193665
+处理状态正常 | record=d97c00beea1d | value=387992
+本地虚拟测试数据 | record=589b16c09709 | value=120582
+编码校验记录 | record=f94000b9ed39 | value=652344
+随机内容记录 | record=83310e3d8431 | value=659333
+处理状态正常 | record=ecd49ca8332a | value=946586
+编码校验记录 | record=3ca0e887bbb2 | value=645145

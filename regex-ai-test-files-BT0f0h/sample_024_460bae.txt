@@ -1,0 +1,29 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+编码校验记录 | record=612608aa84e2 | value=45621
+本地虚拟测试数据 | record=57b396f0d07c | value=143491
+处理状态正常 | record=4d215443c577 | value=694378
+随机内容记录 | record=d679c2dce529 | value=600718
+本地虚拟测试数据 | record=a10d924baf17 | value=393982
+随机内容记录 | record=f02b7b289dd4 | value=715195
+文件扫描测试 | record=97f71879a058 | value=826261
+编码校验记录 | record=e727189dc813 | value=805978
+编码校验记录 | record=af9827a93612 | value=330552
+编码校验记录 | record=f8c679ce7258 | value=553647
+处理状态正常 | record=5ff7a7f69cf2 | value=385876
+文件扫描测试 | record=32693122b6f2 | value=479514
+编码校验记录 | record=c95bbe22f7d3 | value=750055
+示例业务内容 | record=e44c184f9e1f | value=712047
+示例业务内容 | record=70939abd09f4 | value=766485
+示例业务内容 | record=7ffd11943f82 | value=118759
+编码校验记录 | record=01066422bf6d | value=426609
+本地虚拟测试数据 | record=7cbbef628ce8 | value=410163
+文件扫描测试 | record=a48df6c76845 | value=277470
+处理状态正常 | record=8d1765cf6c2f | value=496251
+文件扫描测试 | record=9577725c8693 | value=775762
+编码校验记录 | record=a034734579a7 | value=602716
+test_value = "AIzaIVR4YyxgC-bZGUWZ-HUsANjlYEwyArx82Lc"
+test_value = "sk-svcacct-bJQIk8VlCWOjVK0zWDtPBc6Vz5ZanjMPP98rd5Zgm3_q-l8"
+随机内容记录 | record=aee7d482ab71 | value=783072
+处理状态正常 | record=6c5324e3c6c3 | value=22716
+示例业务内容 | record=909b3c556591 | value=123815

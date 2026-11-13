@@ -1,0 +1,458 @@
+{
+  "description": "随机虚拟凭据格式测试文件；字符串均为随机构造。",
+  "regex": "(?:sk-ant-api\\d{2}-[A-Za-z0-9_-]{20,}|sk-proj-[A-Za-z0-9_-]{20,}|sk-svcacct-[A-Za-z0-9_-]{20,}|sk-(?!ant-|proj-|svcacct-)[A-Za-z0-9_-]{20,}|AIza[A-Za-z0-9_-]{35}|xai-[A-Za-z0-9_-]{20,})(?![A-Za-z0-9_-])",
+  "encoding": "UTF-8 without BOM",
+  "sample_file_count": 30,
+  "total_matches": 45,
+  "max_matches_per_file": 2,
+  "distribution": {
+    "one_match": 15,
+    "two_matches": 15
+  },
+  "branch_counts": {
+    "anthropic": 8,
+    "openai_project": 8,
+    "openai_service_account": 8,
+    "openai_generic": 7,
+    "google_ai": 7,
+    "xai": 7
+  },
+  "verified": true,
+  "files": [
+    {
+      "file": "sample_001_b37e05.txt",
+      "match_count": 2,
+      "bytes": 2081,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 5,
+          "length": 56
+        },
+        {
+          "branch": "anthropic",
+          "line": 7,
+          "length": 73
+        }
+      ]
+    },
+    {
+      "file": "sample_002_7fbe4d.txt",
+      "match_count": 2,
+      "bytes": 2365,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 30,
+          "length": 75
+        },
+        {
+          "branch": "openai_generic",
+          "line": 41,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "file": "sample_003_50010f.txt",
+      "match_count": 1,
+      "bytes": 2323,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 23,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "file": "sample_004_1fbbe9.txt",
+      "match_count": 2,
+      "bytes": 2924,
+      "matches": [
+        {
+          "branch": "google_ai",
+          "line": 19,
+          "length": 39
+        },
+        {
+          "branch": "anthropic",
+          "line": 23,
+          "length": 55
+        }
+      ]
+    },
+    {
+      "file": "sample_005_a1df09.txt",
+      "match_count": 2,
+      "bytes": 2356,
+      "matches": [
+        {
+          "branch": "openai_project",
+          "line": 7,
+          "length": 67
+        },
+        {
+          "branch": "openai_generic",
+          "line": 39,
+          "length": 57
+        }
+      ]
+    },
+    {
+      "file": "sample_006_1a14c0.txt",
+      "match_count": 1,
+      "bytes": 1322,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 3,
+          "length": 68
+        }
+      ]
+    },
+    {
+      "file": "sample_007_eb50d0.txt",
+      "match_count": 1,
+      "bytes": 2485,
+      "matches": [
+        {
+          "branch": "openai_project",
+          "line": 5,
+          "length": 63
+        }
+      ]
+    },
+    {
+      "file": "sample_008_1f9e0f.txt",
+      "match_count": 2,
+      "bytes": 2134,
+      "matches": [
+        {
+          "branch": "openai_project",
+          "line": 4,
+          "length": 72
+        },
+        {
+          "branch": "openai_project",
+          "line": 37,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "file": "sample_009_61e828.txt",
+      "match_count": 1,
+      "bytes": 2439,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 25,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "file": "sample_010_734656.txt",
+      "match_count": 1,
+      "bytes": 1377,
+      "matches": [
+        {
+          "branch": "openai_generic",
+          "line": 8,
+          "length": 56
+        }
+      ]
+    },
+    {
+      "file": "sample_011_ac73b6.txt",
+      "match_count": 1,
+      "bytes": 2417,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 39,
+          "length": 65
+        }
+      ]
+    },
+    {
+      "file": "sample_012_5f51e0.txt",
+      "match_count": 1,
+      "bytes": 1313,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 5,
+          "length": 48
+        }
+      ]
+    },
+    {
+      "file": "sample_013_ebab1a.txt",
+      "match_count": 1,
+      "bytes": 2961,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 40,
+          "length": 64
+        }
+      ]
+    },
+    {
+      "file": "sample_014_a00ef3.txt",
+      "match_count": 2,
+      "bytes": 2316,
+      "matches": [
+        {
+          "branch": "openai_generic",
+          "line": 26,
+          "length": 36
+        },
+        {
+          "branch": "xai",
+          "line": 34,
+          "length": 59
+        }
+      ]
+    },
+    {
+      "file": "sample_015_f8ec8f.txt",
+      "match_count": 2,
+      "bytes": 1409,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 15,
+          "length": 47
+        },
+        {
+          "branch": "openai_service_account",
+          "line": 19,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "file": "sample_016_adf5e4.txt",
+      "match_count": 1,
+      "bytes": 2406,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 37,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "file": "sample_017_10532b.txt",
+      "match_count": 1,
+      "bytes": 2842,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 11,
+          "length": 52
+        }
+      ]
+    },
+    {
+      "file": "sample_018_bc00a0.txt",
+      "match_count": 2,
+      "bytes": 2889,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 20,
+          "length": 57
+        },
+        {
+          "branch": "openai_generic",
+          "line": 45,
+          "length": 55
+        }
+      ]
+    },
+    {
+      "file": "sample_019_869e61.txt",
+      "match_count": 1,
+      "bytes": 1534,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 14,
+          "length": 54
+        }
+      ]
+    },
+    {
+      "file": "sample_020_9e43da.txt",
+      "match_count": 2,
+      "bytes": 2887,
+      "matches": [
+        {
+          "branch": "openai_service_account",
+          "line": 17,
+          "length": 36
+        },
+        {
+          "branch": "google_ai",
+          "line": 42,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "file": "sample_021_967cd9.txt",
+      "match_count": 1,
+      "bytes": 2878,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 29,
+          "length": 61
+        }
+      ]
+    },
+    {
+      "file": "sample_022_ef08f1.txt",
+      "match_count": 2,
+      "bytes": 2081,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 21,
+          "length": 46
+        },
+        {
+          "branch": "google_ai",
+          "line": 34,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "file": "sample_023_6a209c.txt",
+      "match_count": 1,
+      "bytes": 2336,
+      "matches": [
+        {
+          "branch": "anthropic",
+          "line": 37,
+          "length": 61
+        }
+      ]
+    },
+    {
+      "file": "sample_024_460bae.txt",
+      "match_count": 2,
+      "bytes": 1647,
+      "matches": [
+        {
+          "branch": "google_ai",
+          "line": 25,
+          "length": 39
+        },
+        {
+          "branch": "openai_service_account",
+          "line": 26,
+          "length": 58
+        }
+      ]
+    },
+    {
+      "file": "sample_025_ef1355.txt",
+      "match_count": 2,
+      "bytes": 2431,
+      "matches": [
+        {
+          "branch": "xai",
+          "line": 25,
+          "length": 61
+        },
+        {
+          "branch": "openai_project",
+          "line": 37,
+          "length": 64
+        }
+      ]
+    },
+    {
+      "file": "sample_026_9a9cd4.txt",
+      "match_count": 1,
+      "bytes": 1876,
+      "matches": [
+        {
+          "branch": "openai_project",
+          "line": 11,
+          "length": 61
+        }
+      ]
+    },
+    {
+      "file": "sample_027_7ea2dc.txt",
+      "match_count": 2,
+      "bytes": 2246,
+      "matches": [
+        {
+          "branch": "google_ai",
+          "line": 18,
+          "length": 39
+        },
+        {
+          "branch": "openai_project",
+          "line": 32,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "file": "sample_028_826d9b.txt",
+      "match_count": 2,
+      "bytes": 2612,
+      "matches": [
+        {
+          "branch": "openai_generic",
+          "line": 7,
+          "length": 29
+        },
+        {
+          "branch": "openai_project",
+          "line": 29,
+          "length": 69
+        }
+      ]
+    },
+    {
+      "file": "sample_029_70c94d.txt",
+      "match_count": 1,
+      "bytes": 2706,
+      "matches": [
+        {
+          "branch": "google_ai",
+          "line": 13,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "file": "sample_030_7a32d8.txt",
+      "match_count": 2,
+      "bytes": 1935,
+      "matches": [
+        {
+          "branch": "google_ai",
+          "line": 21,
+          "length": 39
+        },
+        {
+          "branch": "openai_generic",
+          "line": 26,
+          "length": 47
+        }
+      ]
+    }
+  ]
+}

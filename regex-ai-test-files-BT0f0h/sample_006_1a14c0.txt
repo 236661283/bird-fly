@@ -1,0 +1,23 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+test_value = "sk-svcacct-_PpRYZC2ImLd8ITgO869VK-bv4R7nrrDMwwyd5VzXz9YTx2roXvjJpsuI"
+处理状态正常 | record=57e86dd7c4f1 | value=721470
+本地虚拟测试数据 | record=1a2f520d8092 | value=372134
+随机内容记录 | record=d63ec37f62df | value=414082
+随机内容记录 | record=95e94fc8e8ba | value=143683
+文件扫描测试 | record=ffef896c3f4f | value=17773
+示例业务内容 | record=3f8028716a77 | value=714627
+本地虚拟测试数据 | record=3054a9c3c341 | value=275111
+示例业务内容 | record=ae688f16b8f5 | value=492165
+随机内容记录 | record=7bbc00e54aba | value=996378
+编码校验记录 | record=99c0f54d1e42 | value=131969
+处理状态正常 | record=f28e43878236 | value=938206
+编码校验记录 | record=f05204d42faf | value=630152
+示例业务内容 | record=953a5d435ab6 | value=351324
+处理状态正常 | record=8c6a96ec7f12 | value=450915
+文件扫描测试 | record=80c044cf2ef5 | value=490525
+本地虚拟测试数据 | record=bb6bea5e6419 | value=807753
+文件扫描测试 | record=7f111d3781a9 | value=176955
+示例业务内容 | record=a8ed70b890f7 | value=15662
+文件扫描测试 | record=ae04408247bb | value=664448
+随机内容记录 | record=1e680d4b8c77 | value=473399

@@ -1,0 +1,51 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+示例业务内容 | record=68476cc23419 | value=577146
+文件扫描测试 | record=cf5b6394df47 | value=419727
+随机内容记录 | record=eba1ef07bb04 | value=220015
+随机内容记录 | record=195c5f6c3548 | value=816085
+文件扫描测试 | record=f4d03df9e7de | value=641526
+示例业务内容 | record=74013a69b084 | value=76450
+本地虚拟测试数据 | record=a53f8d0f6dff | value=677855
+本地虚拟测试数据 | record=23e544eddc2b | value=334373
+随机内容记录 | record=c847b80d8362 | value=846578
+编码校验记录 | record=6b5145ab8788 | value=823380
+随机内容记录 | record=39c5b71c1759 | value=903666
+示例业务内容 | record=58b74fe9685e | value=780728
+本地虚拟测试数据 | record=0eb41671d0fa | value=68891
+处理状态正常 | record=28914625c4c4 | value=479378
+处理状态正常 | record=114ab5c76f64 | value=51655
+编码校验记录 | record=e21d26fd01d4 | value=433589
+test_value = "AIzaS-BhJNNIktOwm06Y7O3vRzDKCPpX6BDmk0f"
+处理状态正常 | record=af29fe4c5d2c | value=434777
+示例业务内容 | record=c18dca6e3aea | value=455341
+处理状态正常 | record=56930135dd70 | value=143583
+test_value = "sk-ant-api00-3DAfqrrdy29bb69SXrOtmvZh1RTsBlZO68APyo-RNz"
+编码校验记录 | record=2c123b62577a | value=430383
+文件扫描测试 | record=6d46ce0b1f65 | value=936538
+本地虚拟测试数据 | record=f98389e79f69 | value=544334
+文件扫描测试 | record=b715529cc642 | value=25171
+本地虚拟测试数据 | record=47f36c64f82b | value=296220
+示例业务内容 | record=2d6501f7e65c | value=409161
+编码校验记录 | record=b2763ea926aa | value=42815
+文件扫描测试 | record=18f97ee859fe | value=632588
+随机内容记录 | record=b53c6f1981ce | value=216159
+随机内容记录 | record=2200d1d99160 | value=280268
+本地虚拟测试数据 | record=89ae7d02169e | value=409170
+文件扫描测试 | record=acd0fe4add0e | value=72466
+本地虚拟测试数据 | record=da669e380874 | value=741157
+文件扫描测试 | record=3d94a6db0453 | value=484064
+示例业务内容 | record=b9b3b7b85602 | value=474122
+本地虚拟测试数据 | record=89084b8ed8a4 | value=527260
+本地虚拟测试数据 | record=34da96264498 | value=992120
+编码校验记录 | record=de0d6ca8b1e2 | value=986607
+本地虚拟测试数据 | record=e0b8bd7230c8 | value=294825
+文件扫描测试 | record=142567ee44f0 | value=90765
+文件扫描测试 | record=4ed4fc307294 | value=680573
+文件扫描测试 | record=4035d02cb6d9 | value=151789
+示例业务内容 | record=f329849e42de | value=132747
+本地虚拟测试数据 | record=36b31045b083 | value=416076
+编码校验记录 | record=3277881320ee | value=85513
+编码校验记录 | record=80d8a59a389d | value=355521
+本地虚拟测试数据 | record=fb0d04b84ddf | value=612697
+随机内容记录 | record=d5f5b3b84c64 | value=789503

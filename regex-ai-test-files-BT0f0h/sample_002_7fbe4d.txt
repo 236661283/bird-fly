@@ -1,0 +1,41 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+示例业务内容 | record=18b27d70fd18 | value=689320
+本地虚拟测试数据 | record=3d4db6be9ce8 | value=899062
+文件扫描测试 | record=a16557d8a7cd | value=939760
+文件扫描测试 | record=402c16fd49d5 | value=118580
+编码校验记录 | record=1d7df950cffa | value=938652
+文件扫描测试 | record=da9ed6fa6eb0 | value=277647
+文件扫描测试 | record=f6e55adb1c56 | value=297919
+文件扫描测试 | record=74538e69535b | value=196487
+本地虚拟测试数据 | record=2785807c8465 | value=125787
+随机内容记录 | record=e245344bcac9 | value=350946
+本地虚拟测试数据 | record=0ed4413ddbb2 | value=572309
+编码校验记录 | record=33c3a5574a0f | value=673503
+处理状态正常 | record=ceb740120504 | value=840482
+编码校验记录 | record=db0915b798be | value=135392
+随机内容记录 | record=c891e959edca | value=494208
+文件扫描测试 | record=6d2a243537b5 | value=941516
+编码校验记录 | record=d52536ab4d65 | value=325508
+示例业务内容 | record=cb4cd0760794 | value=444255
+本地虚拟测试数据 | record=d0e085611d0d | value=661978
+本地虚拟测试数据 | record=665bd1fcd727 | value=146586
+随机内容记录 | record=5d7e387bbbad | value=688902
+处理状态正常 | record=4b41acbb88fb | value=873647
+本地虚拟测试数据 | record=e731cc1be987 | value=629331
+示例业务内容 | record=21b0c1a9394f | value=453845
+文件扫描测试 | record=10c90d031b1d | value=129091
+示例业务内容 | record=0db2c0f61dea | value=283539
+文件扫描测试 | record=309c772e65b8 | value=125951
+test_value = "sk-svcacct-uCsQmtHQnh1t3AN-cZZzClkMIKoMIznGxHxCa28rRJXzHX8dAXxmQbcNJ2w5DopR"
+随机内容记录 | record=9586507ca855 | value=560585
+处理状态正常 | record=347c5219fc76 | value=858999
+处理状态正常 | record=e92a21eae70d | value=385696
+随机内容记录 | record=58fd86af0866 | value=413493
+本地虚拟测试数据 | record=92707bd2f148 | value=432281
+示例业务内容 | record=1476ed8184ec | value=154511
+随机内容记录 | record=dc028435df44 | value=558661
+处理状态正常 | record=a292b0513f7c | value=132966
+编码校验记录 | record=6514c338d2ec | value=249325
+处理状态正常 | record=f22432a0cd2c | value=186918
+test_value = "sk-m6gSQ6PguXL6lJv5sUVQjeNOhaqw36U0fEOfb6K"

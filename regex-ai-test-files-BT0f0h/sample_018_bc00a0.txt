@@ -1,0 +1,51 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+编码校验记录 | record=bb129086cf0b | value=438703
+编码校验记录 | record=be5103d0ebd5 | value=720976
+随机内容记录 | record=85c4aee1c979 | value=925309
+随机内容记录 | record=f77340594072 | value=518052
+编码校验记录 | record=56401bc76b34 | value=95899
+示例业务内容 | record=67796d6f8442 | value=339100
+文件扫描测试 | record=c6294dad01a6 | value=428520
+示例业务内容 | record=d3b779d1128b | value=253389
+示例业务内容 | record=e246f65b94a4 | value=412104
+编码校验记录 | record=a683ec4e7102 | value=698778
+编码校验记录 | record=0ef941acd75a | value=346237
+处理状态正常 | record=1c19dbd28818 | value=120971
+文件扫描测试 | record=37cf21dfc92d | value=978655
+处理状态正常 | record=70983614563a | value=63167
+编码校验记录 | record=56237fdba7e5 | value=638719
+编码校验记录 | record=72543f57541b | value=118565
+示例业务内容 | record=0738dec329c8 | value=633386
+test_value = "xai-EPrFsKLNIsmvQTNhATAsQhNJ5o8JcAmUkW_y_U_w1Xo2ml37AR8z5"
+处理状态正常 | record=a20ec28139d6 | value=620629
+示例业务内容 | record=832c6aa9c4ba | value=654618
+编码校验记录 | record=8864263164a0 | value=801431
+随机内容记录 | record=81f607ca0215 | value=604782
+编码校验记录 | record=ab1908771343 | value=973406
+编码校验记录 | record=a43c48f7f5be | value=385003
+示例业务内容 | record=7b47ff9f0ee3 | value=178014
+示例业务内容 | record=5c04dda37cb1 | value=893967
+处理状态正常 | record=e845bb03fdbb | value=187362
+文件扫描测试 | record=93fa47359800 | value=527468
+文件扫描测试 | record=f7161eb0205d | value=19694
+编码校验记录 | record=faa3c404e64d | value=575062
+文件扫描测试 | record=82a25ba147c7 | value=821845
+示例业务内容 | record=b61bd73276d4 | value=344405
+编码校验记录 | record=c1332d73fd63 | value=4639
+本地虚拟测试数据 | record=db3cc38e8367 | value=966196
+本地虚拟测试数据 | record=5f7541c8bab8 | value=465234
+文件扫描测试 | record=6c0ea4358180 | value=14431
+本地虚拟测试数据 | record=44b7fc6ff775 | value=542506
+随机内容记录 | record=d66b6fdc53d2 | value=68513
+随机内容记录 | record=bbdd472fa563 | value=272519
+处理状态正常 | record=96a222bf9f84 | value=321255
+处理状态正常 | record=e0e782a7d82b | value=412301
+处理状态正常 | record=d017c4925b65 | value=433924
+test_value = "sk-5vsPLWPdelTEC4O6kca3m5_OVb1rIo3QBt0QzhjBhj3pqu1jDa9T"
+随机内容记录 | record=9c8525dd6405 | value=804342
+文件扫描测试 | record=dc670adaa4fe | value=684761
+随机内容记录 | record=8ba056631f56 | value=292376
+示例业务内容 | record=53fd01d7396b | value=958319
+处理状态正常 | record=e8fe44a9539e | value=131051
+编码校验记录 | record=721a6f2ffeef | value=129356

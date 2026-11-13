@@ -1,0 +1,42 @@
+# 随机扫描测试文件
+# 凭据格式字符串均为随机构造，仅用于正则匹配测试。
+编码校验记录 | record=9511d1102860 | value=554209
+随机内容记录 | record=38ae8df72098 | value=876317
+文件扫描测试 | record=e9697aee02e4 | value=49217
+编码校验记录 | record=47f76287d203 | value=266297
+编码校验记录 | record=08aa9f0d319d | value=74164
+编码校验记录 | record=b73cf23b666c | value=722692
+文件扫描测试 | record=a7452238698e | value=299826
+示例业务内容 | record=4a2e539e2b02 | value=599817
+本地虚拟测试数据 | record=20d0717f6e9e | value=267477
+编码校验记录 | record=99e55bec90f0 | value=430025
+处理状态正常 | record=3688159ce3ea | value=975273
+文件扫描测试 | record=78a91ff63385 | value=162518
+文件扫描测试 | record=6e90cdb84251 | value=278331
+本地虚拟测试数据 | record=f080355f70fa | value=333357
+本地虚拟测试数据 | record=85761464dc45 | value=750836
+示例业务内容 | record=f54bfb97af80 | value=517033
+编码校验记录 | record=9441382064af | value=694180
+本地虚拟测试数据 | record=bf9c60ba6969 | value=962748
+编码校验记录 | record=ce87478ff217 | value=803804
+编码校验记录 | record=08cad30b8149 | value=111411
+本地虚拟测试数据 | record=9d1dc7d315cf | value=979874
+本地虚拟测试数据 | record=3498ea4ecf54 | value=815900
+test_value = "xai-EmRmMSQDuz0_cHwxebSbhqkPEQfRiEBsslps2diqgFAXoA-3BgbiKsDtk"
+处理状态正常 | record=8eaf4e57d7e7 | value=74439
+示例业务内容 | record=02fb480a0edf | value=911566
+示例业务内容 | record=f1712df99e12 | value=139693
+编码校验记录 | record=8065fd6a09cb | value=970420
+处理状态正常 | record=b0d4aa955afc | value=871445
+示例业务内容 | record=23849a776239 | value=710426
+示例业务内容 | record=3b64387fa497 | value=980931
+本地虚拟测试数据 | record=81faa34e2420 | value=254524
+示例业务内容 | record=47e6a01655f4 | value=163843
+示例业务内容 | record=d8e302274e99 | value=293709
+本地虚拟测试数据 | record=e96a6fbcf682 | value=909636
+test_value = "sk-proj-e7eKWVE2NKvljX41NjFUe58v34P3sPCb-WwphI6fOnYlFk4M2WklGJSr"
+编码校验记录 | record=ecebd6475382 | value=550684
+文件扫描测试 | record=2fb82c87f550 | value=163068
+示例业务内容 | record=eb1330fdf9d7 | value=519976
+编码校验记录 | record=5e82b7bf5c6c | value=655153
+处理状态正常 | record=5c93b9815129 | value=69574
